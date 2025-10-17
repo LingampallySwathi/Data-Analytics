@@ -2,17 +2,3 @@ streamlit
 pandas
 plotly
 numpy
-matplotlib
-seaborn
-scikit-learn
-gtts
-speechrecognition
-pydub
-textblob
-nltk
-spacy
-wordcloud
-Pillow
-rembg
-deepface
-opencv-python-headless
